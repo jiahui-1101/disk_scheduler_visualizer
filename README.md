@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Project Contribution
+
+| Contributor | Role | Contributions evidenced in the repository | Visible non-merge commits |
+|---|---|---|---:|
+| **Wong Jia Hui** | **Individual Flutter Developer** | Implemented the Flutter visualizer, SCAN/C-SCAN/LOOK/C-LOOK scheduling logic, calculation and animation services, controls, track/road animation and result components. | **1 / 1** |
+
+<sub>The application was imported in one initial commit; no additional contributor identity is present in the public Git history.</sub>
